@@ -1,0 +1,12 @@
+{
+    "email": "",
+    "password": "",
+    "room": "drum-bass",
+    "soundcloud_client_id": "abcdefghijkABCDEFGHIJK0123456789",
+
+    "login_with_facebook": false,
+    "facebook": {
+        "userID": "123456789012345",
+        "accessToken": "abcefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+    }
+}

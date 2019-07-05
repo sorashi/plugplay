@@ -1,0 +1,15 @@
+{
+  "name": "plugplay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ffplay": "^1.1.0",
+    "plugapi": "^5.1.0",
+    "request": "^2.88.0",
+    "youtube-dl": "^2.0.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
