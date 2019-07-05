@@ -62,4 +62,4 @@ node index.js
 # Known issues
 - sometimes there are two songs playing layered over each other for a few seconds before one of them gets stopped
 - sometimes a song gets stuck (stops playing), it's an issue with ffplay, the only workaround is to either wait for the next song or restart the script
-- [report any issues](/issues)
+- [report any issues](https://github.com/sorashi/plugplay/issues)
